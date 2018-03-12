@@ -1,0 +1,24 @@
+.slider .slides li .caption
+{
+    color: darkslategray;
+    text-shadow: 1px 1px 5px white;
+    top: 40%;
+}
+
+.textslider
+{
+    color: white;
+}
+
+.escapamentoSuperior{
+    margin-top: 95vh;
+}
+
+.equipe{
+    padding-bottom: 25px;
+}
+
+.card .card-image .card-title{
+    color: black;
+    text-shadow: 1px 1px 5px black;
+}
